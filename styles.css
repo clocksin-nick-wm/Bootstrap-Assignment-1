@@ -77,3 +77,8 @@ address {
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+#carouselButtons {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+}
